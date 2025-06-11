@@ -1,0 +1,2 @@
+
+            while(prime<i)
