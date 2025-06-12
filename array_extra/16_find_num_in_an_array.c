@@ -12,9 +12,11 @@ int main()
     {
         if(num==arr[i])
             printf("found");
+                break;
 
-        else
-            printf("Not found");
     }
+
+     printf("Not found");
+
     return 0;
 }
