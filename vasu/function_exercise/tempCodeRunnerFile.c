@@ -1,2 +1,0 @@
-   printEven(even);
-    printOdd(odd);
