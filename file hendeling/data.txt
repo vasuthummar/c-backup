@@ -1,0 +1,3 @@
+Hello, File Handling!
+Writing with fprintf.
+New log entry

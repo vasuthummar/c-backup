@@ -1,0 +1,5 @@
+Hello world!
+This is my first file.
+Learning C file hendeling.
+This line is appended.
+File handling is easy!
