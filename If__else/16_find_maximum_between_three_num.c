@@ -17,10 +17,9 @@ int main()
       
     
     else if(b>a && b>c)
-        
         printf("%d is biggest value", b);
+
     else 
-    
         printf("%d is biggest value", c);
     
         return 0;
