@@ -13,9 +13,6 @@ int main()
     scanf("%d", &c);
 
     if(a>b && a>c)
-    
-     
-      
         printf("%d is biggest value", a);
       
     
